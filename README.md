@@ -4,6 +4,7 @@ The automation scripts use Page Object Model Factory to significantly improve th
 # Documentation: 
 -Test Cases:
 https://docs.google.com/spreadsheets/d/1Tf1QPT7tm-VhXeHHKGbuEYfQ18Sa0czeQgDVsBEvcr8/edit?usp=sharing
+
 -Video of test run:
 https://ttprivatenew.s3.amazonaws.com/pulse/amirzilic619-gmail/attachments/20934845/TinyTake05-02-2023-07-42-45.mp4
 # Running the Test:
